@@ -1,5 +1,6 @@
-title: Luuk Tijssen's Homepage
+name: ""
+title: null
 #logo: xyz.jpg
 #description: xyz
-#theme: jekyll-theme-minimal
-remote_theme: dringtech/jekyll-theme-barebones
+theme: jekyll-theme-minimal
+#remote_theme: xyz/xyz
