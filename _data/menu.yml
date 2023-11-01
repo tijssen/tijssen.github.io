@@ -2,6 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: About
+    entries:
+      - title: ![Luuk Tĳssen](https://www.luuktijssen.com/luuk.jpg)
+      - title: Me (2nd right) with friends at the 2023 Munich Oktoberfest.
   - title: Contact
     entries:
       - title: Email
