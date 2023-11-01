@@ -1,5 +1,5 @@
 title: Luuk Tijssen's Homepage
 #logo: xyz.jpg
 #description: xyz
-theme: jekyll-theme-hacker
-#remote_theme: xyz/xyz
+#theme: jekyll-theme-xyz
+remote_theme: riggraz/no-style-please
