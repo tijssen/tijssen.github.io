@@ -1,10 +1,10 @@
-title: Luuk Tijssen's Homepage # name of the site
-author: Luuk Tijssen # name of site's author
+title: Luuk Tĳssen's Homepage # name of the site
+author: Luuk Tĳssen # name of site's author
 email: info@luuktijssen.com # email of site's author
 url: https://www.luuktijssen.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-  Bottom text.
+#description: > # description of the site (multiple lines allowed)
+#  Used for RSS.
 
 permalink: /:slug.html
 
