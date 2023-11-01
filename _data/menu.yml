@@ -4,7 +4,7 @@
 entries:
   - title: About
     entries:
-      - title: ![Luuk Tĳssen](https://www.luuktijssen.com/luuk.jpg)
+      - title: <img src="https://www.luuktijssen.com/luuk.jpg" alt="Luuk Tĳssen">
       - title: Me (2nd right) with friends at the 2023 Munich Oktoberfest.
   - title: Contact
     entries:
