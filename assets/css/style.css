@@ -3,4 +3,4 @@
 
 @import "{{ site.theme }}";
 
-html body{font-family: "Times New Roman", serif}
+.markdown-body{font-family: "Times New Roman", Times, serif}
