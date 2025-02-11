@@ -1,0 +1,23 @@
+title: Luuk Tijssen
+email: info@luuktijssen.com
+url: https://luuktijssen.com
+baseurl: ""
+
+permalink: /:slug.html
+
+#favicon: "favicon.png"
+
+#remote_theme: riggraz/no-style-please
+remote_theme: tijssen/no-style-please
+
+theme_config:
+  appearance: "light"
+  back_home_text: "&larr; Back to home"
+  date_format: "%d.%m.%Y"
+  show_description: false
+
+sass:
+  style: :compressed
+
+plugins: 
+  - jekyll-seo-tag
